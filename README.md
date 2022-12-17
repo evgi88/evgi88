@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello World 👋
+
+- 🔭 I support backend services that allow millions of people worldwide to find and connect with their ancestors. I get this opportunity as a software engineer at FamilySearch. 
+- 🌱 I’m currently learning `Logseq` for my personal knowledge management.
+- 📫 How to reach me: https://www.linkedin.com/in/evgeniy-bekker/
+- ⚡ Fun fact: I speak 5 (non-programming) languages
 
 <!--
 **evgi88/evgi88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
