@@ -1,10 +1,15 @@
 ### Hello World 👋
 
-- 🔭 I support backend services that allow millions of people worldwide to find and connect with their ancestors. I get this opportunity as a software engineer at FamilySearch. 
-- 🌱 I’m currently learning `Logseq` for my personal knowledge management.
+- 🔭 I devevloop backend services that allow millions of people worldwide to find and connect with their ancestors. I get this opportunity as a software engineer at FamilySearch. 
+- 🌱 I’m learning AWS and preparing to take the [Developer Associate Exam](https://aws.amazon.com/certification/certified-developer-associate/)
 - 📫 How to reach me: https://www.linkedin.com/in/evgeniy-bekker/
 - ⚡ Fun fact: I speak 5 (non-programming) languages
 
+### Programming Languages
+[![Programming Languages](https://skills.thijs.gg/icons?i=java,clojure,js,py&theme=light)](https://skills.thijs.gg)
+
+### Tools
+[![Tools](https://skills.thijs.gg/icons?i=git,vim,docker,postgres&theme=light)](https://skills.thijs.gg)
 <!--
 **evgi88/evgi88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
